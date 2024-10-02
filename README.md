@@ -1,69 +1,88 @@
-## Your Name
+# Abdullah Ali Abdullah Mohsen Farhan
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+**Location:** Yemen  
+**Email:** alfrhan2009@gmail.com  
+**Phone:** +31 6 8561 2975  
+[GitHub](https://github.com/your-github) | [LinkedIn](https://linkedin.com/in/your-linkedin)
 
-## Projects
+---
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+## Summary
 
-## Work Experience
+A dedicated professional with a strong passion for personal and professional development, seeking to contribute to the growth and success of any organization. Experienced in maritime operations, risk management, and strategic maritime policy. Known for my ability to work under pressure, solve complex challenges, and deliver outstanding results while continuously striving for excellence and innovation.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-## Skills
-
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
-
+---
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+**Bachelor's in Port and Fleet Management**  
+Arab Academy for Science, Technology and Maritime Transport, Egypt  
+*Graduated in 2017*
 
-#### Your University / College (start_date to end_date)
+---
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+## Work Experience
 
-#### Any other qualifications
+### **Maritime Operations Manager**  
+Overseas Company | 2018 - 2020  
+- Served as Second Officer and Chief Officer on oil tankers.
+- Managed and coordinated maritime operations, ensuring the smooth and efficient transfer of oil products.
+- Promoted to Maritime Operations Manager, overseeing the entire maritime fleet.
 
-That in some arguable way make you a better software developer or well-rounded person
+### **General Manager of Maritime Policies and Economics**  
+Ministry of Transport, Yemen | 2020 - Present  
+- Directed policies related to maritime economics and international shipping.
+- Developed strategies to improve the national maritime sector in line with global standards.
+- Acted as an advisor to the Yemeni Minister of Transport on maritime economic matters.
 
-## Hobbies
+### **Deputy Chairman & TV Presenter**  
+Aden Sky Channel | 2016 - 2017  
+- Worked as Deputy Chairman of Aden Sky Channel, managing operations and strategic direction.
+- Presented TV programs during my time in Egypt, covering a variety of topics including current affairs and maritime issues.
 
-Any cool stuff that makes you a super part of a software development team
+### **Consultant to the Yemeni Minister of Transport**  
+Yemen | 2020 - Present  
+- Provided consultancy on maritime economics and policies.
+- Assisted in shaping maritime strategies for Yemen during a critical time of conflict.
+
+---
+
+## Skills
+
+- **Languages:** Arabic (Native), English (B2), Dutch (A2)
+- **Software:** Microsoft Office Suite (Word, Excel, PowerPoint)
+- **Graphic Design & Motion Graphics:** Adobe After Effects, Photoshop, Premiere, Camtasia
+- **Maritime Systems:** Port management systems, fleet logistics
+
+---
+
+## Certifications
+
+- **VCA** - Netherlands  
+- **Kleine Blusmiddelen en Water- en Schuimvoerende Armaturen** - Netherlands  
+- **Werken als Buitenwacht** - Netherlands  
+- **Gas Measuring (Gasmeten)** - Netherlands
+
+---
+
+## Languages
+
+- **Arabic:** Native  
+- **English:** B2  
+- **Dutch:** A2  
+
+---
+
+## Projects
+
+- **Advising the Minister of Transport**: Collaborated on various maritime economics projects and initiatives, developing long-term strategies for Yemen's maritime sector during periods of economic and political instability.
+- **Aden Sky TV Channel:** Led strategic operations for the media outlet while managing content and delivering on-air programs.
+
+---
+
+## Contact Information
+
+- **Phone:** +31 6 8561 2975  
+- **Email:** alfrhan2009@gmail.com  
+- [GitHub](https://github.com/your-github) | [LinkedIn](https://linkedin.com/in/your-linkedin)
+
